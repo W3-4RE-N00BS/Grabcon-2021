@@ -10,4 +10,4 @@ so we have to find the website on free website builders like `netlify` , `wix` ,
 
 and i finally found the flag on `greatanimalshere.weebly.com`
 
-![[Pasted image 20210906222417.png]]
+![Pasted image 20210906222417.png](https://github.com/W3-4RE-N00BS/Grabcon-2021/blob/main/Grabcon/website/Pasted%20image%2020210906222417.png)
